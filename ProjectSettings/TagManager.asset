@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Base
-  - Ground
-  - Block
+  - Paddle
+  - Ball
+  - ScoreManager
   layers:
   - Default
   - TransparentFX
